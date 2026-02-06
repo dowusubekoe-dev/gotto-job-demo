@@ -1582,6 +1582,11 @@ nav[aria-label="breadcrumb"] {
 .bg-primary {
   background-color: var(--bs-primary) !important;
 }
+.btn-apply-now {
+  padding: 0.75rem 2rem;
+  font-weight: 600;
+}
+
 
 }
 
