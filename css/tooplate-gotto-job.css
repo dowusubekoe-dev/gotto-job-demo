@@ -1553,5 +1553,35 @@ nav[aria-label="breadcrumb"] {
   .job-detail-share {
     margin: 20px auto 0 auto;
   }
+
+/* Override Bootstrap primary color */
+:root {
+  --bs-primary: #198754;            /* base */
+  --bs-primary-rgb: 25, 135, 84;    /* required for utilities */
+}
+
+/* Buttons */
+.btn-primary {
+  background-color: var(--bs-primary);
+  border-color: var(--bs-primary);
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: #157347;  /* darker hover */
+  border-color: #146c43;
+}
+
+/* Nav / menu links */
+.nav-link.active,
+.nav-link:hover {
+  color: var(--bs-primary);
+}
+
+/* Navbar background (if using bg-primary) */
+.bg-primary {
+  background-color: var(--bs-primary) !important;
+}
+
 }
 
