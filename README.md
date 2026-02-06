@@ -1,5 +1,3 @@
-This README is designed to be the "crown jewel" of your portfolio. It demonstrates to recruiters and graders that you don't just write code—you understand the **Agile Lifecycle** and the **DevOps Pipeline**.
-
 # 📑 Project: Gotto Job — UI Polish Sprint
 
 **DMI DevOps Bootcamp | Assignment 4**
