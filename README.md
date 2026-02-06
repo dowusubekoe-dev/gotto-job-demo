@@ -22,7 +22,6 @@ To simulate a professional environment, the following roles were performed:
 ## 🛠️ Sprint 1 Execution (Jira)
 
 ### 1. Backlog Refinement
-
 I seeded the Product Backlog with 6 high-value User Stories. Each story was estimated using **Fibonacci points (1, 2, 3)** to gauge effort and complexity.
 
 | Story | Points | Role Responsible | Status |
